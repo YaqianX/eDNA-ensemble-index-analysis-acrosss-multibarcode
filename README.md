@@ -363,7 +363,7 @@ data/
 
 If you use this pipeline in your research, please cite the following:
 
-> [Your citation here upon publication]
+> https://github.com/YaqianX/eDNA-ensemble-index-analysis-acrosss-multibarcode.git
 
 And the underlying methodological references:
 
